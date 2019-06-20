@@ -1,7 +1,6 @@
 using System;
 using System.Linq;
 using Microsoft.Extensions.Configuration;
-//using System.Configuration;
 
 namespace Nethereum.RPC.Tests.Testers
 {
